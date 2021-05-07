@@ -7,7 +7,6 @@ class User < ApplicationRecord
   has_many :tasks, dependent: :destroy
   has_many :routine_tasks, dependent: :destroy
   validates :name, presence: true
-  validates :introduction, presence: true
 
   attachment :profile_image
 
