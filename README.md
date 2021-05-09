@@ -36,6 +36,14 @@
 
 - https://docs.google.com/spreadsheets/d/1MfdOATFe4BRWgV1_mfm4EnYGPeaxjjGbVFssC7BUEvE/edit?usp=sharing
 
+## AWS構成図
+
+- https://drive.google.com/file/d/17AkJ65SVD9MqSdVCzRiNSmRc04t-W0kG/view?usp=sharing
+
+## AWSインフラ設計書
+
+- https://docs.google.com/spreadsheets/d/1ooebVlzYkSiXbLnaZ0lwlQNOpCafFVI96VoSuYQsfpU/edit?usp=sharing
+
 ## 開発環境
 
 - OS：Linux(CentOS)
